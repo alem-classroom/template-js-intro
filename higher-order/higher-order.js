@@ -10,7 +10,7 @@ const flatten = (array) => {
     // your code here with .reduce
 }
 
-const loop = (init, testFunc, updateFunc, bodyFund) => {
+const loop = (init, testFunc, updateFunc, bodyFunc) => {
     // your code here
 }
 
